@@ -1,0 +1,1 @@
+print ("This is a MacBook")print ("This works smoothly")
